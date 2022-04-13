@@ -191,12 +191,13 @@ form label, legend{
     height: 300px;
 }
 
+/*
 .imagemUtensilios{ 
     width: 10%;
     float: left;
-    margin: 0 20px 0 20px;
+    margin: 0 20px 0 20px;   
 }
-
+*/
 .titulo-principal{
     text-align: center;    
     font-size: 2em;
